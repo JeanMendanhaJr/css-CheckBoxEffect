@@ -47,13 +47,13 @@
 ## 🔖 Layout
 
 * State 1
-<h5 align="center">
-    <img src="./img/check.png" width="350px" /><br>
+<h5>
+    <img src="./img/check.png" width="200px" /><br>
 </h5>
 
 * State 2
-<h5 align="center">
-    <img src="./img/checked.png" width="350px" /><br>
+<h5>
+    <img src="./img/checked.png" width="200px" /><br>
 </h5>
 
 ## 🔩 How To Use
