@@ -36,7 +36,7 @@
 
 *The purpose of this project is to use CSS only to perform an animation of a CheckBox.*
 
-**View Application:** <a href="https://jeanmendanhajr.github.io/css-CheckBoxEffect/src/" target="View Application">Checkbox Effect</a>
+**View Application:** <a href="https://jeanmendanhajr.github.io/css-CheckBoxEffect/src/" target="_blank">Checkbox Effect</a>
 
 ## 🔨 Tools
 
