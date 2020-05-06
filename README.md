@@ -3,7 +3,7 @@
 </h4>
 
 <h4 align="center"> 
-	:heavy_check_mark: CheckBox Efect :heavy_check_mark:
+	:heavy_check_mark: CheckBox Effect :heavy_check_mark:
 </h4>
 
 <p align="center">
