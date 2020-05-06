@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JeanMendanhaJr/css-CheckBoxEffect">
     
-  <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEfect/commits/master">
+  <a href="https://github.com/JeanMendanhaJr/css-CheckBoxEffect/commits/master">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/JeanMendanhaJr/css-CheckBoxEffect">
   </a>
   
@@ -48,12 +48,12 @@
 
 * State 1
 <h5 align="center">
-    <img src="/img/check" width="350px" /><br>
+    <img src="./img/check.png" width="350px" /><br>
 </h5>
 
 * State 2
 <h5 align="center">
-    <img src="/img/checked" width="350px" /><br>
+    <img src="./img/checked.png" width="350px" /><br>
 </h5>
 
 ## 🔩 How To Use
